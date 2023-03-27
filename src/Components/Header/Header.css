@@ -1,0 +1,17 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+
+.header .navbar a{
+    color: #fff;
+    margin-left: 30px;
+}
+
+.header .navbar a:hover{
+    color: rgb(232, 132, 95);
+}
