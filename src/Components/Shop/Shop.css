@@ -9,3 +9,9 @@
     grid-template-columns: repeat(3,1fr);
     gap: 45px;
 }
+
+.Cart-container{
+    position: sticky;
+    top: 0;
+    margin-right: 10px;
+}
