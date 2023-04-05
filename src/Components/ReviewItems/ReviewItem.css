@@ -1,0 +1,50 @@
+.review-items{
+    width: 571px;
+    border: 2px solid #95A0A7;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 10px;
+    display: flex;
+}
+
+.review-items p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.review-title{
+    font-size: 1rem;
+}
+
+.product-info{
+    margin-left: 15px;
+    flex-grow: 1;
+}
+
+.pera{
+    font-size: 14px;
+}
+
+.dlt-logo{
+   height: 55px;
+   width: 55px;
+   border-radius: 50%;
+   background-color:  rgba(235, 87, 87, 0.3);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.review-items img{
+    width: 91px;
+    height: 91px;
+}
+
+.price{
+    color: #FF9900;
+}
+
+.icon{
+    color: red;
+    font-size: 27px;
+}
